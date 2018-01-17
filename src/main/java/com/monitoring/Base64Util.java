@@ -39,6 +39,10 @@ public class Base64Util {
             return new String(b, "utf-8");
         }
 
+
+
+        
+
         /**
          * 将数据字符串转换为Base64字符串
          * @param strData
